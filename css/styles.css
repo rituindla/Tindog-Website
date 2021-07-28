@@ -1,0 +1,108 @@
+#title {
+    background-color:#ff4c68;
+    color:#fff;
+}
+.navbar-brand{
+    color:white;
+}
+h1{
+    font-family: 'Montserrat', sans-serif ;
+    color:white;
+    font-size: 3rem;
+    line-height:1.5 ;
+    padding: 3% 1%;
+}
+.row{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 10%;
+  padding-right: 10%;
+  line-height: 2;
+}
+.fa-check-circle{
+  color:#ef8172;
+}
+.fa-bullseye{
+  color:#ef8172;
+}
+.fa-heart{
+  color:#ef8172;
+}
+.fa-check-circle:hover{
+  color:#ff4c68;
+  width:30%;
+}
+.fa-bullseye:hover{
+  color:#ff4c68;
+}
+.fa-heart:hover{
+  color:#ff4c68;
+}
+
+
+.btn{
+  margin-right: 2%;
+}
+#features{
+  padding:6% 2%;
+  text-align: center;
+  background-color:white;
+}
+#testimonials{
+  text-align: center;
+  background-color:#ef8172;
+  color:#fff;
+}
+.carousel-item{
+  padding:6% 15%;
+}
+
+.img_dog{
+  width:15%;
+  border-radius:100%;
+  margin:10px;
+}
+#press{
+  background-color:#ef8172;
+  text-align:center;
+  padding-bottom: 5%;
+}
+.press-logo{
+  width:15%;
+  margin: 20px 20px 20px;
+}
+.img-title{
+  width:50%;
+  transform: rotate(25deg);
+
+}
+
+
+.btn-label{
+  padding-right: 1rem;
+}
+.card{
+  text-align:center;
+}
+#pricing{
+  text-align:center;
+  padding-top:2%;
+}
+.invisible{
+  visibility: hidden;
+}
+.pricing-title{
+  padding-top: 6%;
+}
+.bottom-container{
+  padding: 10% 15%;
+  font-size: 3rem;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+ 
+}
+#footer{
+  text-align: center;
+  padding:5% 15%;
+}
